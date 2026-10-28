@@ -6,6 +6,8 @@ The Supplier Search Agent is a multi-agent system designed to automate the suppl
 
 Instead of manually searching across multiple websites and directories, users can provide a simple natural language request describing what they need, and the system automatically discovers relevant suppliers, collects business information, and stores the results for future reuse.
 
+**[View the Project Presentation (PDF)](https://github.com/andreabochicchio02/supplier-search-agent/blob/main/ProjectPresentation.pdf)**
+
 > Powered by **LangChain**, **LangGraph**, **Ollama**, **SearXNG**, and **PostgreSQL + pgvector**.
 
 The platform is built on top of **LangChain** and **LangGraph** to support structured LLM workflows, tool execution, and multi-agent orchestration.
